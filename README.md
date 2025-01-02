@@ -10,6 +10,7 @@ A curated collection of Python programs, advanced concepts, real-world projects,
 - **Interview_Questions**: A collection of coding problems and solutions commonly asked in technical interviews.
 - **Utilities**: Handy utility scripts to make development more efficient.
 
+
 ## Purpose
 
 This repository is tailored for Python developers with professional experience who are preparing for technical interviews. It focuses on bridging the gap between foundational knowledge and real-world applications.
