@@ -18,4 +18,4 @@ This repository is tailored for Python developers with professional experience w
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/python-pro-interview-prep.git
+   git clone https://github.com/bajupatil/python-pro-interview-prep.git

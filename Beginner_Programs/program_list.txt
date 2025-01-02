@@ -1,0 +1,52 @@
+Beginner_Programs Directory - List of Python Programs:
+
+1. Factorial Calculator (factorial.py) - Calculate the factorial of a given number.
+2. Prime Number Checker (check_prime.py) - Check if a number is a prime number.
+3. Fibonacci Series Generator (fibonacci.py) - Generate a Fibonacci series up to a given number of terms.
+4. Palindrome Checker (palindrome.py) - Check if a given string is a palindrome.
+5. Armstrong Number Checker (armstrong.py) - Verify if a number is an Armstrong number.
+6. Reverse a String (reverse_string.py) - Reverse a given string.
+7. Sum of Digits (sum_of_digits.py) - Calculate the sum of digits of a number.
+8. Find GCD of Two Numbers (gcd.py) - Compute the greatest common divisor of two numbers.
+9. Simple Calculator (calculator.py) - Perform basic arithmetic operations (+, -, *, /).
+10. Leap Year Checker (leap_year.py) - Determine if a given year is a leap year.
+11. Binary to Decimal Converter (binary_to_decimal.py) - Convert binary to decimal.
+12. Decimal to Binary Converter (decimal_to_binary.py) - Convert decimal to binary.
+13. Find Largest Element in a List (largest_in_list.py) - Identify the largest number in a list.
+14. Find Smallest Element in a List (smallest_in_list.py) - Identify the smallest number in a list.
+15. Count Vowels in a String (count_vowels.py) - Count the number of vowels in a string.
+16. Sort a List in Ascending Order (sort_list.py) - Sort a list in ascending order.
+17. Check Perfect Number (perfect_number.py) - Verify if a number is a perfect number.
+18. Check Strong Number (strong_number.py) - Determine if a number is a strong number.
+19. Sum of Natural Numbers (sum_of_natural_numbers.py) - Calculate the sum of the first N natural numbers.
+20. Find LCM of Two Numbers (lcm.py) - Compute the least common multiple of two numbers.
+21. Generate Random Number (random_number.py) - Generate a random number within a range.
+22. Check Automorphic Number (automorphic_number.py) - Verify if a number is automorphic.
+23. Count Characters in a String (count_characters.py) - Count the number of characters in a string.
+24. Check Harshad Number (harshad_number.py) - Determine if a number is a Harshad number.
+25. Calculate Power of a Number (power_of_number.py) - Compute the power of a number.
+26. Remove Duplicates from a List (remove_duplicates.py) - Eliminate duplicates from a list.
+27. Check if Two Strings are Anagrams (anagram_checker.py) - Check if two strings are anagrams.
+28. Generate a Multiplication Table (multiplication_table.py) - Generate a multiplication table for a given number.
+29. Find Second Largest Number in a List (second_largest.py) - Identify the second largest number in a list.
+30. Check Abundant Number (abundant_number.py) - Verify if a number is abundant.
+31. Count Words in a Sentence (count_words.py) - Count the number of words in a sentence.
+32. Find ASCII Value of a Character (ascii_value.py) - Find the ASCII value of a character.
+33. Convert Celsius to Fahrenheit (celsius_to_fahrenheit.py) - Convert temperature from Celsius to Fahrenheit.
+34. Convert Fahrenheit to Celsius (fahrenheit_to_celsius.py) - Convert temperature from Fahrenheit to Celsius.
+35. Check Spy Number (spy_number.py) - Determine if a number is a spy number.
+36. Calculate Area of a Circle (circle_area.py) - Compute the area of a circle.
+37. Calculate Area of a Rectangle (rectangle_area.py) - Compute the area of a rectangle.
+38. Calculate Area of a Triangle (triangle_area.py) - Compute the area of a triangle using Heron’s formula.
+39. Find Factors of a Number (find_factors.py) - Find all factors of a given number.
+40. Check Perfect Square (perfect_square.py) - Verify if a number is a perfect square.
+41. Count Digits in a Number (count_digits.py) - Count the number of digits in a number.
+42. Reverse a Number (reverse_number.py) - Reverse the digits of a number.
+43. Sum of Squares of Digits (sum_of_squares.py) - Calculate the sum of squares of digits of a number.
+44. Find HCF of Two Numbers (hcf.py) - Compute the highest common factor of two numbers.
+45. Check Neon Number (neon_number.py) - Determine if a number is a neon number.
+46. Find Median of a List (median.py) - Calculate the median of a list.
+47. Find Mode of a List (mode.py) - Identify the mode of a list.
+48. Check if a String is Pangram (pangram_checker.py) - Verify if a string is a pangram.
+49. Find Sum of Even Numbers in a List (sum_even_numbers.py) - Calculate the sum of even numbers in a list.
+50. Find Sum of Odd Numbers in a List (sum_odd_numbers.py) - Calculate the sum of odd numbers in a list.
