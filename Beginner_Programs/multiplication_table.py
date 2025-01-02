@@ -1,0 +1,3 @@
+# Program to print the multiplication table of a number.
+# The program prints the multiples of the given number.
+# Example: The multiplication table for 3 is 3, 6, 9, 12...

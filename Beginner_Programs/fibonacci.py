@@ -1,0 +1,3 @@
+# Program to print the Fibonacci sequence.
+# Each number in the Fibonacci sequence is the sum of the two preceding ones, starting from 0 and 1.
+# Example: 0, 1, 1, 2, 3, 5, 8, 13...
